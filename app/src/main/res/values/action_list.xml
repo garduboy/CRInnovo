@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="action_list">
+        <item>@string/title_activity_protocols</item>
+        <item>@string/title_activity_projects</item>
+    </string-array>
+</resources>

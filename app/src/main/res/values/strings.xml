@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CRInnovo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_date">Select a date</string>
+    <string name="select_protocol">Select Protocol</string>
+    <string name="title_activity_protocols">Protocols</string>
+    <string name="title_activity_projects">Projects</string>
+    <string name="visit">Visit</string>
+    <string name="visit_day">Day of Visit</string>
+</resources>

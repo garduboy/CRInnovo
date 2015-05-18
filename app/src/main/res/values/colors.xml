@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_main">#99ccfdff</color>
+    <color name="background_white">#99ffffff</color>
+    <color name="grid_header">#ff77aaff</color>
+    <color name="toolbar_main">#ff8fc6d9</color>
+</resources>
